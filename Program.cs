@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Program: CSE 210 Tic Tac Toe Example
+// Author: Brother Burton
+
+using System;
 using System.Collections.Generic;
 
 namespace cse210_student_csharp_tictactoe_complete
